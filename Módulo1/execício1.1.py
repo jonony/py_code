@@ -4,9 +4,9 @@
 # * Imprima a soma destes números na tela
 #
 
-x = int(input('Digite um número inteiro: '))
-y = int(input('Digite outro número inteiro: '))
+x = int(input('Digite um número inteiro:  '))
+y = int(input('Digite outro número inteiro:  '))
 
 s = x + y
-print(f'A soma entre {x} e {y} é {s}')
+print(f'A soma entre {x} e {y} é {s}') 
 
