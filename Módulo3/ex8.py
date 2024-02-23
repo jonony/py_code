@@ -9,3 +9,5 @@ x = int(input('Digite aqui um número inteiro: '))
 
 if((x > 1) and (x < 100)) or ((x < -1) and (x > -100)):
     print('Um dos critérios foi atingido')
+
+    
