@@ -22,6 +22,6 @@ elif(op == 3):
 elif(op == 4):
     valor_final = valor * 1.08
     parcela = valor_final / 10
-    print(f'Produto comprado parcelado em 10x. Total a pagar: R${valor_final:.2f} / Total da parcela {parcela:.2f}')
+    print(f'Produto comprado parcelado em 10x. Total a pagar: R${valor_final:.2f} / Total da parcela R${parcela:.2f}')
 else:
     print('Essa opção está inválida')
